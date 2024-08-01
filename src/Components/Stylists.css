@@ -1,0 +1,41 @@
+
+.stylists {
+    padding: 2rem;
+    background-color: #fce4ec;
+  }
+  
+  .stylists h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .stylist-profile {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+  }
+  
+  .stylist {
+    text-align: center;
+    max-width: 200px;
+  }
+  
+  .stylist img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  .stylist h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .stylist p {
+    font-size: 1rem;
+    color: #666;
+  }
+  
